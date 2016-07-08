@@ -1,2 +1,3 @@
 # hello-world
-just repo
+This is just to learn github. It is very easy.
+
